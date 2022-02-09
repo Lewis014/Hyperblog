@@ -1,5 +1,11 @@
 header {
     text-align: center;
-    color: blueviolet;
+    color: skyblue;
     font-family: Arial, Helvetica, sans-serif;
+}
+#container {
+    width: 70%;
+    padding: 1cm;
+    text-align: center;
+    border: 1px solid blue;
 }
