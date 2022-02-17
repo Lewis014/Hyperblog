@@ -7,4 +7,5 @@ Un blog increíble para el curso de Git y GitHub de Platzi
 - Todos los comandos de Git
 - El flujo de trabajo en Github
 - Buenas prácticas
+- NIcky
 Este Reame.md **is a joke**. Visita mi página [git](https://github.com/Lewis014/Hyperblog "git")
