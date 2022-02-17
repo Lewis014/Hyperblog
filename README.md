@@ -8,4 +8,6 @@ Un blog increíble para el curso de Git y GitHub de Platzi
 - El flujo de trabajo en Github
 - Buenas prácticas
 - NIcky
+-Cursos dinamicos
+-
 Este Reame.md **is a joke**. Visita mi página [git](https://github.com/Lewis014/Hyperblog "git")
